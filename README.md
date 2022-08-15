@@ -1,2 +1,1 @@
-# juego
-juego mio
+# Juegos
